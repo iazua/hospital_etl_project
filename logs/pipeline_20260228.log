@@ -1,0 +1,207 @@
+=======================================================
+[2026-02-28 13:14:30] PIPELINE DE ESTADÍSTICAS HOSPITALARIAS — INICIO
+[2026-02-28 13:14:30] Fecha de ejecución: 28/02/2026 13:14:30
+=======================================================
+[2026-02-28 13:14:30] ▶ FASE 2: Extracción
+[2026-02-28 13:14:30] ==================================================
+[2026-02-28 13:14:30] Iniciando extracción de datos (Capa E)
+[2026-02-28 13:14:30] ==================================================
+[2026-02-28 13:14:30] Extrayendo pacientes...
+[2026-02-28 13:14:31]   ✓ pacientes.csv guardado → 2,999 registros, 9 columnas.
+[2026-02-28 13:14:31] Extrayendo camas...
+[2026-02-28 13:14:31]   ✓ camas.csv guardado → 600 registros, 5 columnas.
+[2026-02-28 13:14:31] Extrayendo diagnosticos...
+[2026-02-28 13:14:31]   ✓ diagnosticos.csv guardado → 16 registros, 4 columnas.
+[2026-02-28 13:14:31] Extrayendo atenciones...
+[2026-02-28 13:14:31]   ✓ atenciones.csv guardado → 12,000 registros, 8 columnas.
+[2026-02-28 13:14:31] Extrayendo hospitalizaciones...
+[2026-02-28 13:14:31]   ✓ hospitalizaciones.csv guardado → 5,000 registros, 9 columnas.
+[2026-02-28 13:14:31] Extrayendo hospitalizaciones_detalle...
+[2026-02-28 13:14:31]   ✓ hospitalizaciones_detalle.csv guardado → 5,000 registros, 18 columnas.
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Extracción completada → 6 archivos en data/raw/
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] ✓ Extracción completada.
+
+[2026-02-28 13:14:31] ▶ FASE 3: Transformación
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Iniciando transformación de datos (Capa T)
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Limpiando hospitalizaciones_detalle...
+[2026-02-28 13:14:31]   → Limpieza completada: 0 registros eliminados de 5,000 originales.
+[2026-02-28 13:14:31] Limpiando atenciones ambulatorias...
+[2026-02-28 13:14:31]   → 12,000 atenciones válidas.
+[2026-02-28 13:14:31] Calculando estadía por servicio...
+[2026-02-28 13:14:31] Calculando estadía por diagnóstico...
+[2026-02-28 13:14:31] Calculando ocupación de camas...
+[2026-02-28 13:14:31] Calculando egresos mensuales...
+[2026-02-28 13:14:31] Calculando atenciones ambulatorias por mes...
+[2026-02-28 13:14:31] Calculando atenciones por especialidad...
+[2026-02-28 13:14:31] Calculando distribución de pacientes...
+[2026-02-28 13:14:31] --------------------------------------------------
+[2026-02-28 13:14:31] Guardando indicadores en data/processed/...
+[2026-02-28 13:14:31]   ✓ ind_estadia_servicio.csv guardado → 6 registros.
+[2026-02-28 13:14:31]   ✓ ind_estadia_diagnostico.csv guardado → 16 registros.
+[2026-02-28 13:14:31]   ✓ ind_ocupacion_camas.csv guardado → 6 registros.
+[2026-02-28 13:14:31]   ✓ ind_egresos_mensuales.csv guardado → 312 registros.
+[2026-02-28 13:14:31]   ✓ ind_atenciones_mes.csv guardado → 52 registros.
+[2026-02-28 13:14:31]   ✓ ind_atenciones_especialidad.csv guardado → 8 registros.
+[2026-02-28 13:14:31]   ✓ ind_distribucion_pacientes.csv guardado → 30 registros.
+[2026-02-28 13:14:31]   ✓ hospitalizaciones_limpio.csv guardado → 5,000 registros.
+[2026-02-28 13:14:31]   ✓ atenciones_limpio.csv guardado → 12,000 registros.
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Transformación completada → 9 archivos en data/processed/
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] ✓ Transformación completada.
+
+[2026-02-28 13:14:31] ▶ FASE 4: Carga
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Iniciando carga de datos (Capa L)
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31]   ✓ Hoja 'Ocupación Camas' escrita → 6 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Estadía x Servicio' escrita → 6 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Estadía x Diagnóstico' escrita → 16 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Egresos Mensuales' escrita → 312 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Atenciones x Mes' escrita → 52 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Atenciones x Especialidad' escrita → 8 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Distribución Pacientes' escrita → 30 registros.
+[2026-02-28 13:14:31]   ✓ Hoja 'Resumen Ejecutivo' escrita.
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Carga completada → reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:14:31] Ruta: C:\Users\ignac\PycharmProjects\hospital_etl_project\data\reports\reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] ✓ Carga completada.
+
+[2026-02-28 13:14:31] ▶ FASE 5: Generación de reporte PDF
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Iniciando generación de reporte PDF (Fase 5)
+[2026-02-28 13:14:31] ==================================================
+[2026-02-28 13:14:31] Generando gráficos y ensamblando PDF...
+[2026-02-28 13:14:32] ==================================================
+[2026-02-28 13:14:32]   ✓ PDF generado → reporte_estadisticas_20260228.pdf
+[2026-02-28 13:14:32]   Ruta: C:\Users\ignac\PycharmProjects\hospital_etl_project\data\reports\reporte_estadisticas_20260228.pdf
+[2026-02-28 13:14:32] ==================================================
+[2026-02-28 13:14:32] ✓ Reporte PDF generado.
+
+[2026-02-28 13:14:32] ▶ FASE 6: Envío de correo
+[2026-02-28 13:14:32] ==================================================
+[2026-02-28 13:14:32] Iniciando envío de correo (Fase 6)
+[2026-02-28 13:14:32] ==================================================
+[2026-02-28 13:14:32]   📎 Adjunto: reporte_estadisticas_20260228.pdf
+[2026-02-28 13:14:32]   📎 Adjunto: reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:14:32]   Conectando a smtp.gmail.com:587...
+[2026-02-28 13:14:34]   ✗ Error de autenticación. Verifica EMAIL_SENDER y EMAIL_PASSWORD en config.py
+[2026-02-28 13:14:34]     Recuerda usar una Contraseña de Aplicación de Gmail, no tu contraseña personal.
+[2026-02-28 13:14:34] ⚠ El correo no pudo enviarse, pero el pipeline completó las demás fases.
+=======================================================
+[2026-02-28 13:14:34] PIPELINE COMPLETADO EXITOSAMENTE
+[2026-02-28 13:14:34] Duración total: 3 segundos
+[2026-02-28 13:14:34] Archivos generados:
+[2026-02-28 13:14:34]   → reporte_estadisticas_20260228.pdf
+[2026-02-28 13:14:34]   → reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:14:34] Log guardado en: C:\Users\ignac\PycharmProjects\hospital_etl_project\logs\pipeline_20260228.log
+=======================================================
+=======================================================
+[2026-02-28 13:16:55] PIPELINE DE ESTADÍSTICAS HOSPITALARIAS — INICIO
+[2026-02-28 13:16:55] Fecha de ejecución: 28/02/2026 13:16:55
+=======================================================
+[2026-02-28 13:16:55] ▶ FASE 2: Extracción
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] Iniciando extracción de datos (Capa E)
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] Extrayendo pacientes...
+[2026-02-28 13:16:55]   ✓ pacientes.csv guardado → 2,999 registros, 9 columnas.
+[2026-02-28 13:16:55] Extrayendo camas...
+[2026-02-28 13:16:55]   ✓ camas.csv guardado → 600 registros, 5 columnas.
+[2026-02-28 13:16:55] Extrayendo diagnosticos...
+[2026-02-28 13:16:55]   ✓ diagnosticos.csv guardado → 16 registros, 4 columnas.
+[2026-02-28 13:16:55] Extrayendo atenciones...
+[2026-02-28 13:16:55]   ✓ atenciones.csv guardado → 12,000 registros, 8 columnas.
+[2026-02-28 13:16:55] Extrayendo hospitalizaciones...
+[2026-02-28 13:16:55]   ✓ hospitalizaciones.csv guardado → 5,000 registros, 9 columnas.
+[2026-02-28 13:16:55] Extrayendo hospitalizaciones_detalle...
+[2026-02-28 13:16:55]   ✓ hospitalizaciones_detalle.csv guardado → 5,000 registros, 18 columnas.
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] Extracción completada → 6 archivos en data/raw/
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] ✓ Extracción completada.
+
+[2026-02-28 13:16:55] ▶ FASE 3: Transformación
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] Iniciando transformación de datos (Capa T)
+[2026-02-28 13:16:55] ==================================================
+[2026-02-28 13:16:55] Limpiando hospitalizaciones_detalle...
+[2026-02-28 13:16:55]   → Limpieza completada: 0 registros eliminados de 5,000 originales.
+[2026-02-28 13:16:55] Limpiando atenciones ambulatorias...
+[2026-02-28 13:16:55]   → 12,000 atenciones válidas.
+[2026-02-28 13:16:55] Calculando estadía por servicio...
+[2026-02-28 13:16:55] Calculando estadía por diagnóstico...
+[2026-02-28 13:16:55] Calculando ocupación de camas...
+[2026-02-28 13:16:55] Calculando egresos mensuales...
+[2026-02-28 13:16:55] Calculando atenciones ambulatorias por mes...
+[2026-02-28 13:16:55] Calculando atenciones por especialidad...
+[2026-02-28 13:16:55] Calculando distribución de pacientes...
+[2026-02-28 13:16:55] --------------------------------------------------
+[2026-02-28 13:16:55] Guardando indicadores en data/processed/...
+[2026-02-28 13:16:55]   ✓ ind_estadia_servicio.csv guardado → 6 registros.
+[2026-02-28 13:16:55]   ✓ ind_estadia_diagnostico.csv guardado → 16 registros.
+[2026-02-28 13:16:55]   ✓ ind_ocupacion_camas.csv guardado → 6 registros.
+[2026-02-28 13:16:55]   ✓ ind_egresos_mensuales.csv guardado → 312 registros.
+[2026-02-28 13:16:55]   ✓ ind_atenciones_mes.csv guardado → 52 registros.
+[2026-02-28 13:16:55]   ✓ ind_atenciones_especialidad.csv guardado → 8 registros.
+[2026-02-28 13:16:55]   ✓ ind_distribucion_pacientes.csv guardado → 30 registros.
+[2026-02-28 13:16:55]   ✓ hospitalizaciones_limpio.csv guardado → 5,000 registros.
+[2026-02-28 13:16:56]   ✓ atenciones_limpio.csv guardado → 12,000 registros.
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] Transformación completada → 9 archivos en data/processed/
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] ✓ Transformación completada.
+
+[2026-02-28 13:16:56] ▶ FASE 4: Carga
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] Iniciando carga de datos (Capa L)
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56]   ✓ Hoja 'Ocupación Camas' escrita → 6 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Estadía x Servicio' escrita → 6 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Estadía x Diagnóstico' escrita → 16 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Egresos Mensuales' escrita → 312 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Atenciones x Mes' escrita → 52 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Atenciones x Especialidad' escrita → 8 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Distribución Pacientes' escrita → 30 registros.
+[2026-02-28 13:16:56]   ✓ Hoja 'Resumen Ejecutivo' escrita.
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] Carga completada → reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:16:56] Ruta: C:\Users\ignac\PycharmProjects\hospital_etl_project\data\reports\reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] ✓ Carga completada.
+
+[2026-02-28 13:16:56] ▶ FASE 5: Generación de reporte PDF
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] Iniciando generación de reporte PDF (Fase 5)
+[2026-02-28 13:16:56] ==================================================
+[2026-02-28 13:16:56] Generando gráficos y ensamblando PDF...
+[2026-02-28 13:16:57] ==================================================
+[2026-02-28 13:16:57]   ✓ PDF generado → reporte_estadisticas_20260228.pdf
+[2026-02-28 13:16:57]   Ruta: C:\Users\ignac\PycharmProjects\hospital_etl_project\data\reports\reporte_estadisticas_20260228.pdf
+[2026-02-28 13:16:57] ==================================================
+[2026-02-28 13:16:57] ✓ Reporte PDF generado.
+
+[2026-02-28 13:16:57] ▶ FASE 6: Envío de correo
+[2026-02-28 13:16:57] ==================================================
+[2026-02-28 13:16:57] Iniciando envío de correo (Fase 6)
+[2026-02-28 13:16:57] ==================================================
+[2026-02-28 13:16:57]   📎 Adjunto: reporte_estadisticas_20260228.pdf
+[2026-02-28 13:16:57]   📎 Adjunto: reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:16:57]   Conectando a smtp.gmail.com:587...
+[2026-02-28 13:17:04]   ✓ Correo enviado exitosamente a: ignacio.azua@outlook.com
+[2026-02-28 13:17:04] ==================================================
+[2026-02-28 13:17:04] ✓ Correo enviado.
+
+=======================================================
+[2026-02-28 13:17:04] PIPELINE COMPLETADO EXITOSAMENTE
+[2026-02-28 13:17:04] Duración total: 9 segundos
+[2026-02-28 13:17:04] Archivos generados:
+[2026-02-28 13:17:04]   → reporte_estadisticas_20260228.pdf
+[2026-02-28 13:17:04]   → reporte_estadisticas_20260228.xlsx
+[2026-02-28 13:17:04] Log guardado en: C:\Users\ignac\PycharmProjects\hospital_etl_project\logs\pipeline_20260228.log
+=======================================================
