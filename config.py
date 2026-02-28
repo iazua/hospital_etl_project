@@ -30,6 +30,7 @@ REPORTS_DIR     = os.path.join(BASE_DIR, "data", "reports")
 # CORREO (se usará en Fase 6)
 # ---------------------------------------------
 EMAIL_SENDER        = "ignacio.azua95@gmail.com"
-EMAIL_PASSWORD      = "kraj xqso qogu qqqj"       # Contraseña de aplicación Gmail
+EMAIL_PASSWORD      = ""       
 EMAIL_RECIPIENTS    = ["ignacio.azua@outlook.com"]
+
 EMAIL_SUBJECT       = "Reporte Diario - Estadísticas Hospital Metropolitano"
