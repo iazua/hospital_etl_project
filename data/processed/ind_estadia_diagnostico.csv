@@ -1,0 +1,17 @@
+﻿categoria_diagnostico,diagnostico,total_casos,promedio_dias
+Digestivo,Melena,268,10.9
+Traumatológico,Fractura de cuello de fémur,254,10.9
+Digestivo,"Apendicitis aguda, no especificada",245,10.8
+Infectológico,"Infección viral, no especificada",288,10.7
+Neurológico,"Traumatismo intracraneal, no especificado",263,10.7
+Metabólico,Deshidratación,252,10.7
+Respiratorio,EPOC con exacerbación aguda,283,10.6
+Metabólico,Diabetes mellitus tipo 2 sin complicaciones,260,10.5
+Neurológico,"Epilepsia, no especificada",252,10.3
+Respiratorio,"Neumonía, no especificada",242,10.3
+Cardiovascular,"Infarto agudo al miocardio, no especificado",284,10.3
+Cardiovascular,Hipertensión esencial primaria,250,10.3
+Urológico,"Infección urinaria, sitio no especificado",282,10.3
+Cardiovascular,"Insuficiencia cardíaca, no especificada",271,10.1
+Infectológico,Gastroenteritis infecciosa,274,10.0
+Respiratorio,Infección aguda vías respiratorias superiores,263,10.0

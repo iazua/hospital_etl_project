@@ -1,0 +1,17 @@
+﻿diagnostico_id,codigo_cie10,descripcion,categoria
+1,J18.9,"Neumonía, no especificada",Respiratorio
+2,J06.9,Infección aguda vías respiratorias superiores,Respiratorio
+3,J44.1,EPOC con exacerbación aguda,Respiratorio
+4,I21.9,"Infarto agudo al miocardio, no especificado",Cardiovascular
+5,I10.X,Hipertensión esencial primaria,Cardiovascular
+6,I50.9,"Insuficiencia cardíaca, no especificada",Cardiovascular
+7,E11.9,Diabetes mellitus tipo 2 sin complicaciones,Metabólico
+8,E86.0,Deshidratación,Metabólico
+9,K35.9,"Apendicitis aguda, no especificada",Digestivo
+10,K92.1,Melena,Digestivo
+11,N39.0,"Infección urinaria, sitio no especificado",Urológico
+12,S72.0,Fractura de cuello de fémur,Traumatológico
+13,S06.9,"Traumatismo intracraneal, no especificado",Neurológico
+14,G40.9,"Epilepsia, no especificada",Neurológico
+15,A09.9,Gastroenteritis infecciosa,Infectológico
+16,B34.9,"Infección viral, no especificada",Infectológico

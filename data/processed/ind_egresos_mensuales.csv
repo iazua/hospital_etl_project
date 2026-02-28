@@ -1,0 +1,313 @@
+﻿anio_mes,servicio,motivo_egreso,total_egresos
+2025-03,Cardiología,Alta médica,13
+2025-03,Cardiología,Alta voluntaria,13
+2025-03,Cardiología,Fallecimiento,9
+2025-03,Cardiología,Traslado,10
+2025-03,Cirugía,Alta médica,13
+2025-03,Cirugía,Alta voluntaria,9
+2025-03,Cirugía,Fallecimiento,7
+2025-03,Cirugía,Traslado,10
+2025-03,Medicina Interna,Alta médica,7
+2025-03,Medicina Interna,Alta voluntaria,14
+2025-03,Medicina Interna,Fallecimiento,8
+2025-03,Medicina Interna,Traslado,10
+2025-03,Neurología,Alta médica,14
+2025-03,Neurología,Alta voluntaria,12
+2025-03,Neurología,Fallecimiento,13
+2025-03,Neurología,Traslado,8
+2025-03,Traumatología,Alta médica,13
+2025-03,Traumatología,Alta voluntaria,10
+2025-03,Traumatología,Fallecimiento,8
+2025-03,Traumatología,Traslado,11
+2025-03,UCI,Alta médica,11
+2025-03,UCI,Alta voluntaria,14
+2025-03,UCI,Fallecimiento,16
+2025-03,UCI,Traslado,8
+2025-04,Cardiología,Alta médica,18
+2025-04,Cardiología,Alta voluntaria,10
+2025-04,Cardiología,Fallecimiento,17
+2025-04,Cardiología,Traslado,24
+2025-04,Cirugía,Alta médica,16
+2025-04,Cirugía,Alta voluntaria,8
+2025-04,Cirugía,Fallecimiento,15
+2025-04,Cirugía,Traslado,10
+2025-04,Medicina Interna,Alta médica,14
+2025-04,Medicina Interna,Alta voluntaria,8
+2025-04,Medicina Interna,Fallecimiento,13
+2025-04,Medicina Interna,Traslado,8
+2025-04,Neurología,Alta médica,10
+2025-04,Neurología,Alta voluntaria,23
+2025-04,Neurología,Fallecimiento,20
+2025-04,Neurología,Traslado,18
+2025-04,Traumatología,Alta médica,12
+2025-04,Traumatología,Alta voluntaria,10
+2025-04,Traumatología,Fallecimiento,9
+2025-04,Traumatología,Traslado,13
+2025-04,UCI,Alta médica,16
+2025-04,UCI,Alta voluntaria,19
+2025-04,UCI,Fallecimiento,11
+2025-04,UCI,Traslado,9
+2025-05,Cardiología,Alta médica,14
+2025-05,Cardiología,Alta voluntaria,16
+2025-05,Cardiología,Fallecimiento,19
+2025-05,Cardiología,Traslado,8
+2025-05,Cirugía,Alta médica,16
+2025-05,Cirugía,Alta voluntaria,13
+2025-05,Cirugía,Fallecimiento,9
+2025-05,Cirugía,Traslado,20
+2025-05,Medicina Interna,Alta médica,11
+2025-05,Medicina Interna,Alta voluntaria,12
+2025-05,Medicina Interna,Fallecimiento,13
+2025-05,Medicina Interna,Traslado,12
+2025-05,Neurología,Alta médica,8
+2025-05,Neurología,Alta voluntaria,18
+2025-05,Neurología,Fallecimiento,18
+2025-05,Neurología,Traslado,17
+2025-05,Traumatología,Alta médica,20
+2025-05,Traumatología,Alta voluntaria,8
+2025-05,Traumatología,Fallecimiento,13
+2025-05,Traumatología,Traslado,11
+2025-05,UCI,Alta médica,15
+2025-05,UCI,Alta voluntaria,14
+2025-05,UCI,Fallecimiento,14
+2025-05,UCI,Traslado,15
+2025-06,Cardiología,Alta médica,21
+2025-06,Cardiología,Alta voluntaria,19
+2025-06,Cardiología,Fallecimiento,11
+2025-06,Cardiología,Traslado,17
+2025-06,Cirugía,Alta médica,6
+2025-06,Cirugía,Alta voluntaria,7
+2025-06,Cirugía,Fallecimiento,10
+2025-06,Cirugía,Traslado,9
+2025-06,Medicina Interna,Alta médica,12
+2025-06,Medicina Interna,Alta voluntaria,14
+2025-06,Medicina Interna,Fallecimiento,9
+2025-06,Medicina Interna,Traslado,16
+2025-06,Neurología,Alta médica,12
+2025-06,Neurología,Alta voluntaria,23
+2025-06,Neurología,Fallecimiento,14
+2025-06,Neurología,Traslado,21
+2025-06,Traumatología,Alta médica,9
+2025-06,Traumatología,Alta voluntaria,7
+2025-06,Traumatología,Fallecimiento,16
+2025-06,Traumatología,Traslado,21
+2025-06,UCI,Alta médica,15
+2025-06,UCI,Alta voluntaria,17
+2025-06,UCI,Fallecimiento,12
+2025-06,UCI,Traslado,17
+2025-07,Cardiología,Alta médica,14
+2025-07,Cardiología,Alta voluntaria,11
+2025-07,Cardiología,Fallecimiento,13
+2025-07,Cardiología,Traslado,19
+2025-07,Cirugía,Alta médica,13
+2025-07,Cirugía,Alta voluntaria,15
+2025-07,Cirugía,Fallecimiento,11
+2025-07,Cirugía,Traslado,12
+2025-07,Medicina Interna,Alta médica,8
+2025-07,Medicina Interna,Alta voluntaria,16
+2025-07,Medicina Interna,Fallecimiento,15
+2025-07,Medicina Interna,Traslado,11
+2025-07,Neurología,Alta médica,16
+2025-07,Neurología,Alta voluntaria,15
+2025-07,Neurología,Fallecimiento,15
+2025-07,Neurología,Traslado,17
+2025-07,Traumatología,Alta médica,18
+2025-07,Traumatología,Alta voluntaria,17
+2025-07,Traumatología,Fallecimiento,13
+2025-07,Traumatología,Traslado,25
+2025-07,UCI,Alta médica,21
+2025-07,UCI,Alta voluntaria,20
+2025-07,UCI,Fallecimiento,16
+2025-07,UCI,Traslado,15
+2025-08,Cardiología,Alta médica,21
+2025-08,Cardiología,Alta voluntaria,19
+2025-08,Cardiología,Fallecimiento,14
+2025-08,Cardiología,Traslado,14
+2025-08,Cirugía,Alta médica,17
+2025-08,Cirugía,Alta voluntaria,22
+2025-08,Cirugía,Fallecimiento,18
+2025-08,Cirugía,Traslado,16
+2025-08,Medicina Interna,Alta médica,13
+2025-08,Medicina Interna,Alta voluntaria,12
+2025-08,Medicina Interna,Fallecimiento,16
+2025-08,Medicina Interna,Traslado,11
+2025-08,Neurología,Alta médica,22
+2025-08,Neurología,Alta voluntaria,19
+2025-08,Neurología,Fallecimiento,11
+2025-08,Neurología,Traslado,10
+2025-08,Traumatología,Alta médica,19
+2025-08,Traumatología,Alta voluntaria,13
+2025-08,Traumatología,Fallecimiento,15
+2025-08,Traumatología,Traslado,17
+2025-08,UCI,Alta médica,16
+2025-08,UCI,Alta voluntaria,20
+2025-08,UCI,Fallecimiento,14
+2025-08,UCI,Traslado,12
+2025-09,Cardiología,Alta médica,13
+2025-09,Cardiología,Alta voluntaria,14
+2025-09,Cardiología,Fallecimiento,19
+2025-09,Cardiología,Traslado,9
+2025-09,Cirugía,Alta médica,11
+2025-09,Cirugía,Alta voluntaria,14
+2025-09,Cirugía,Fallecimiento,17
+2025-09,Cirugía,Traslado,9
+2025-09,Medicina Interna,Alta médica,15
+2025-09,Medicina Interna,Alta voluntaria,19
+2025-09,Medicina Interna,Fallecimiento,20
+2025-09,Medicina Interna,Traslado,16
+2025-09,Neurología,Alta médica,19
+2025-09,Neurología,Alta voluntaria,18
+2025-09,Neurología,Fallecimiento,10
+2025-09,Neurología,Traslado,16
+2025-09,Traumatología,Alta médica,12
+2025-09,Traumatología,Alta voluntaria,15
+2025-09,Traumatología,Fallecimiento,11
+2025-09,Traumatología,Traslado,9
+2025-09,UCI,Alta médica,10
+2025-09,UCI,Alta voluntaria,15
+2025-09,UCI,Fallecimiento,16
+2025-09,UCI,Traslado,13
+2025-10,Cardiología,Alta médica,12
+2025-10,Cardiología,Alta voluntaria,16
+2025-10,Cardiología,Fallecimiento,18
+2025-10,Cardiología,Traslado,12
+2025-10,Cirugía,Alta médica,17
+2025-10,Cirugía,Alta voluntaria,9
+2025-10,Cirugía,Fallecimiento,11
+2025-10,Cirugía,Traslado,13
+2025-10,Medicina Interna,Alta médica,23
+2025-10,Medicina Interna,Alta voluntaria,12
+2025-10,Medicina Interna,Fallecimiento,16
+2025-10,Medicina Interna,Traslado,17
+2025-10,Neurología,Alta médica,26
+2025-10,Neurología,Alta voluntaria,12
+2025-10,Neurología,Fallecimiento,23
+2025-10,Neurología,Traslado,14
+2025-10,Traumatología,Alta médica,14
+2025-10,Traumatología,Alta voluntaria,13
+2025-10,Traumatología,Fallecimiento,17
+2025-10,Traumatología,Traslado,11
+2025-10,UCI,Alta médica,16
+2025-10,UCI,Alta voluntaria,22
+2025-10,UCI,Fallecimiento,16
+2025-10,UCI,Traslado,17
+2025-11,Cardiología,Alta médica,20
+2025-11,Cardiología,Alta voluntaria,17
+2025-11,Cardiología,Fallecimiento,19
+2025-11,Cardiología,Traslado,14
+2025-11,Cirugía,Alta médica,13
+2025-11,Cirugía,Alta voluntaria,21
+2025-11,Cirugía,Fallecimiento,9
+2025-11,Cirugía,Traslado,11
+2025-11,Medicina Interna,Alta médica,14
+2025-11,Medicina Interna,Alta voluntaria,12
+2025-11,Medicina Interna,Fallecimiento,16
+2025-11,Medicina Interna,Traslado,20
+2025-11,Neurología,Alta médica,14
+2025-11,Neurología,Alta voluntaria,13
+2025-11,Neurología,Fallecimiento,13
+2025-11,Neurología,Traslado,15
+2025-11,Traumatología,Alta médica,13
+2025-11,Traumatología,Alta voluntaria,17
+2025-11,Traumatología,Fallecimiento,9
+2025-11,Traumatología,Traslado,8
+2025-11,UCI,Alta médica,16
+2025-11,UCI,Alta voluntaria,15
+2025-11,UCI,Fallecimiento,20
+2025-11,UCI,Traslado,11
+2025-12,Cardiología,Alta médica,10
+2025-12,Cardiología,Alta voluntaria,19
+2025-12,Cardiología,Fallecimiento,14
+2025-12,Cardiología,Traslado,17
+2025-12,Cirugía,Alta médica,16
+2025-12,Cirugía,Alta voluntaria,19
+2025-12,Cirugía,Fallecimiento,11
+2025-12,Cirugía,Traslado,11
+2025-12,Medicina Interna,Alta médica,14
+2025-12,Medicina Interna,Alta voluntaria,17
+2025-12,Medicina Interna,Fallecimiento,18
+2025-12,Medicina Interna,Traslado,20
+2025-12,Neurología,Alta médica,24
+2025-12,Neurología,Alta voluntaria,16
+2025-12,Neurología,Fallecimiento,16
+2025-12,Neurología,Traslado,18
+2025-12,Traumatología,Alta médica,7
+2025-12,Traumatología,Alta voluntaria,12
+2025-12,Traumatología,Fallecimiento,22
+2025-12,Traumatología,Traslado,21
+2025-12,UCI,Alta médica,20
+2025-12,UCI,Alta voluntaria,4
+2025-12,UCI,Fallecimiento,13
+2025-12,UCI,Traslado,16
+2026-01,Cardiología,Alta médica,17
+2026-01,Cardiología,Alta voluntaria,18
+2026-01,Cardiología,Fallecimiento,13
+2026-01,Cardiología,Traslado,17
+2026-01,Cirugía,Alta médica,16
+2026-01,Cirugía,Alta voluntaria,12
+2026-01,Cirugía,Fallecimiento,16
+2026-01,Cirugía,Traslado,14
+2026-01,Medicina Interna,Alta médica,11
+2026-01,Medicina Interna,Alta voluntaria,9
+2026-01,Medicina Interna,Fallecimiento,11
+2026-01,Medicina Interna,Traslado,14
+2026-01,Neurología,Alta médica,16
+2026-01,Neurología,Alta voluntaria,15
+2026-01,Neurología,Fallecimiento,15
+2026-01,Neurología,Traslado,20
+2026-01,Traumatología,Alta médica,12
+2026-01,Traumatología,Alta voluntaria,19
+2026-01,Traumatología,Fallecimiento,16
+2026-01,Traumatología,Traslado,13
+2026-01,UCI,Alta médica,12
+2026-01,UCI,Alta voluntaria,8
+2026-01,UCI,Fallecimiento,19
+2026-01,UCI,Traslado,25
+2026-02,Cardiología,Alta médica,7
+2026-02,Cardiología,Alta voluntaria,10
+2026-02,Cardiología,Fallecimiento,13
+2026-02,Cardiología,Traslado,22
+2026-02,Cirugía,Alta médica,12
+2026-02,Cirugía,Alta voluntaria,7
+2026-02,Cirugía,Fallecimiento,12
+2026-02,Cirugía,Traslado,14
+2026-02,Medicina Interna,Alta médica,9
+2026-02,Medicina Interna,Alta voluntaria,13
+2026-02,Medicina Interna,Fallecimiento,13
+2026-02,Medicina Interna,Traslado,9
+2026-02,Neurología,Alta médica,15
+2026-02,Neurología,Alta voluntaria,14
+2026-02,Neurología,Fallecimiento,12
+2026-02,Neurología,Traslado,20
+2026-02,Traumatología,Alta médica,20
+2026-02,Traumatología,Alta voluntaria,14
+2026-02,Traumatología,Fallecimiento,18
+2026-02,Traumatología,Traslado,12
+2026-02,UCI,Alta médica,11
+2026-02,UCI,Alta voluntaria,12
+2026-02,UCI,Fallecimiento,15
+2026-02,UCI,Traslado,14
+2026-03,Cardiología,Alta médica,7
+2026-03,Cardiología,Alta voluntaria,7
+2026-03,Cardiología,Fallecimiento,5
+2026-03,Cardiología,Traslado,1
+2026-03,Cirugía,Alta médica,3
+2026-03,Cirugía,Alta voluntaria,5
+2026-03,Cirugía,Fallecimiento,3
+2026-03,Cirugía,Traslado,4
+2026-03,Medicina Interna,Alta médica,2
+2026-03,Medicina Interna,Alta voluntaria,3
+2026-03,Medicina Interna,Fallecimiento,4
+2026-03,Medicina Interna,Traslado,4
+2026-03,Neurología,Alta médica,6
+2026-03,Neurología,Alta voluntaria,4
+2026-03,Neurología,Fallecimiento,7
+2026-03,Neurología,Traslado,5
+2026-03,Traumatología,Alta médica,9
+2026-03,Traumatología,Alta voluntaria,2
+2026-03,Traumatología,Fallecimiento,1
+2026-03,Traumatología,Traslado,4
+2026-03,UCI,Alta médica,5
+2026-03,UCI,Alta voluntaria,2
+2026-03,UCI,Fallecimiento,8
+2026-03,UCI,Traslado,4

@@ -1,0 +1,7 @@
+﻿servicio,total_egresos,promedio_dias,min_dias,max_dias
+Neurología,790,10.7,1.0,20.0
+Cardiología,744,10.5,1.0,20.0
+UCI,732,10.5,1.0,20.0
+Traumatología,679,10.5,1.0,20.0
+Cirugía,632,10.4,1.0,20.0
+Medicina Interna,654,10.1,1.0,20.0

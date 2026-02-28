@@ -1,0 +1,601 @@
+﻿cama_id,numero_cama,servicio,tipo,estado
+1,CAR-001,Cardiología,Básica,Disponible
+2,UCI-002,UCI,Alta Complejidad,Disponible
+3,CIR-003,Cirugía,Básica,Disponible
+4,MED-004,Medicina Interna,Básica,Disponible
+5,CAR-005,Cardiología,Básica,Disponible
+6,CAR-006,Cardiología,Alta Complejidad,Disponible
+7,NEU-007,Neurología,Básica,Disponible
+8,NEU-008,Neurología,Media,Disponible
+9,UCI-009,UCI,Básica,Disponible
+10,UCI-010,UCI,Básica,Disponible
+11,MED-011,Medicina Interna,Alta Complejidad,Disponible
+12,NEU-012,Neurología,Básica,Disponible
+13,NEU-013,Neurología,Básica,Disponible
+14,CAR-014,Cardiología,Alta Complejidad,Disponible
+15,CAR-015,Cardiología,Alta Complejidad,Disponible
+16,TRA-016,Traumatología,Básica,Disponible
+17,TRA-017,Traumatología,Alta Complejidad,Disponible
+18,CIR-018,Cirugía,Básica,Disponible
+19,MED-019,Medicina Interna,Alta Complejidad,Disponible
+20,TRA-020,Traumatología,Media,Disponible
+21,CIR-021,Cirugía,Básica,Disponible
+22,MED-022,Medicina Interna,Media,Disponible
+23,UCI-023,UCI,Básica,Disponible
+24,TRA-024,Traumatología,Básica,Disponible
+25,CIR-025,Cirugía,Media,Disponible
+26,NEU-026,Neurología,Media,Disponible
+27,UCI-027,UCI,Alta Complejidad,Disponible
+28,TRA-028,Traumatología,Alta Complejidad,Disponible
+29,UCI-029,UCI,Media,Disponible
+30,UCI-030,UCI,Alta Complejidad,Disponible
+31,CIR-031,Cirugía,Alta Complejidad,Disponible
+32,NEU-032,Neurología,Media,Disponible
+33,NEU-033,Neurología,Básica,Disponible
+34,CAR-034,Cardiología,Básica,Disponible
+35,UCI-035,UCI,Alta Complejidad,Disponible
+36,MED-036,Medicina Interna,Media,Disponible
+37,UCI-037,UCI,Básica,Disponible
+38,UCI-038,UCI,Media,Disponible
+39,CIR-039,Cirugía,Media,Disponible
+40,CAR-040,Cardiología,Media,Disponible
+41,MED-041,Medicina Interna,Media,Disponible
+42,CIR-042,Cirugía,Básica,Disponible
+43,CAR-043,Cardiología,Media,Disponible
+44,CAR-044,Cardiología,Alta Complejidad,Disponible
+45,CAR-045,Cardiología,Básica,Disponible
+46,NEU-046,Neurología,Alta Complejidad,Disponible
+47,MED-047,Medicina Interna,Alta Complejidad,Disponible
+48,CAR-048,Cardiología,Básica,Disponible
+49,MED-049,Medicina Interna,Media,Disponible
+50,TRA-050,Traumatología,Media,Disponible
+51,CAR-051,Cardiología,Alta Complejidad,Disponible
+52,NEU-052,Neurología,Básica,Disponible
+53,CAR-053,Cardiología,Media,Disponible
+54,UCI-054,UCI,Básica,Disponible
+55,UCI-055,UCI,Media,Disponible
+56,TRA-056,Traumatología,Media,Disponible
+57,UCI-057,UCI,Básica,Disponible
+58,NEU-058,Neurología,Alta Complejidad,Disponible
+59,CIR-059,Cirugía,Básica,Disponible
+60,CAR-060,Cardiología,Media,Disponible
+61,TRA-061,Traumatología,Alta Complejidad,Disponible
+62,TRA-062,Traumatología,Básica,Disponible
+63,CIR-063,Cirugía,Básica,Disponible
+64,MED-064,Medicina Interna,Alta Complejidad,Disponible
+65,NEU-065,Neurología,Alta Complejidad,Disponible
+66,CIR-066,Cirugía,Alta Complejidad,Disponible
+67,NEU-067,Neurología,Media,Disponible
+68,NEU-068,Neurología,Media,Disponible
+69,CIR-069,Cirugía,Básica,Disponible
+70,MED-070,Medicina Interna,Alta Complejidad,Disponible
+71,TRA-071,Traumatología,Básica,Disponible
+72,UCI-072,UCI,Básica,Disponible
+73,MED-073,Medicina Interna,Alta Complejidad,Disponible
+74,MED-074,Medicina Interna,Alta Complejidad,Disponible
+75,TRA-075,Traumatología,Alta Complejidad,Disponible
+76,UCI-076,UCI,Media,Disponible
+77,TRA-077,Traumatología,Alta Complejidad,Disponible
+78,TRA-078,Traumatología,Alta Complejidad,Disponible
+79,CIR-079,Cirugía,Alta Complejidad,Disponible
+80,UCI-080,UCI,Alta Complejidad,Disponible
+81,CAR-081,Cardiología,Básica,Disponible
+82,CAR-082,Cardiología,Alta Complejidad,Disponible
+83,CIR-083,Cirugía,Alta Complejidad,Disponible
+84,CIR-084,Cirugía,Básica,Disponible
+85,CIR-085,Cirugía,Media,Disponible
+86,MED-086,Medicina Interna,Media,Disponible
+87,UCI-087,UCI,Alta Complejidad,Disponible
+88,CAR-088,Cardiología,Media,Disponible
+89,NEU-089,Neurología,Básica,Disponible
+90,NEU-090,Neurología,Básica,Disponible
+91,CAR-091,Cardiología,Media,Disponible
+92,CAR-092,Cardiología,Alta Complejidad,Disponible
+93,NEU-093,Neurología,Básica,Disponible
+94,MED-094,Medicina Interna,Media,Disponible
+95,MED-095,Medicina Interna,Alta Complejidad,Disponible
+96,NEU-096,Neurología,Básica,Disponible
+97,NEU-097,Neurología,Media,Disponible
+98,TRA-098,Traumatología,Básica,Disponible
+99,UCI-099,UCI,Media,Disponible
+100,CIR-100,Cirugía,Básica,Disponible
+101,UCI-101,UCI,Básica,Disponible
+102,NEU-102,Neurología,Básica,Disponible
+103,UCI-103,UCI,Alta Complejidad,Disponible
+104,TRA-104,Traumatología,Básica,Disponible
+105,NEU-105,Neurología,Básica,Disponible
+106,MED-106,Medicina Interna,Alta Complejidad,Disponible
+107,TRA-107,Traumatología,Alta Complejidad,Disponible
+108,MED-108,Medicina Interna,Media,Disponible
+109,NEU-109,Neurología,Alta Complejidad,Disponible
+110,TRA-110,Traumatología,Básica,Disponible
+111,NEU-111,Neurología,Alta Complejidad,Disponible
+112,CAR-112,Cardiología,Básica,Disponible
+113,CAR-113,Cardiología,Media,Disponible
+114,TRA-114,Traumatología,Alta Complejidad,Disponible
+115,CAR-115,Cardiología,Media,Disponible
+116,TRA-116,Traumatología,Alta Complejidad,Disponible
+117,TRA-117,Traumatología,Básica,Disponible
+118,MED-118,Medicina Interna,Básica,Disponible
+119,UCI-119,UCI,Media,Disponible
+120,UCI-120,UCI,Alta Complejidad,Disponible
+121,NEU-121,Neurología,Básica,Disponible
+122,NEU-122,Neurología,Básica,Disponible
+123,UCI-123,UCI,Básica,Disponible
+124,CAR-124,Cardiología,Alta Complejidad,Disponible
+125,UCI-125,UCI,Básica,Disponible
+126,UCI-126,UCI,Básica,Disponible
+127,CIR-127,Cirugía,Básica,Disponible
+128,NEU-128,Neurología,Básica,Disponible
+129,CIR-129,Cirugía,Alta Complejidad,Disponible
+130,TRA-130,Traumatología,Básica,Disponible
+131,NEU-131,Neurología,Básica,Disponible
+132,CAR-132,Cardiología,Alta Complejidad,Disponible
+133,NEU-133,Neurología,Media,Disponible
+134,MED-134,Medicina Interna,Media,Disponible
+135,TRA-135,Traumatología,Básica,Disponible
+136,UCI-136,UCI,Básica,Disponible
+137,CAR-137,Cardiología,Media,Disponible
+138,CIR-138,Cirugía,Media,Disponible
+139,TRA-139,Traumatología,Media,Disponible
+140,CAR-140,Cardiología,Básica,Disponible
+141,CAR-141,Cardiología,Alta Complejidad,Disponible
+142,CAR-142,Cardiología,Básica,Disponible
+143,UCI-143,UCI,Media,Disponible
+144,CAR-144,Cardiología,Media,Disponible
+145,UCI-145,UCI,Básica,Disponible
+146,MED-146,Medicina Interna,Básica,Disponible
+147,NEU-147,Neurología,Media,Disponible
+148,MED-148,Medicina Interna,Media,Disponible
+149,MED-149,Medicina Interna,Media,Disponible
+150,TRA-150,Traumatología,Básica,Disponible
+151,UCI-151,UCI,Media,Disponible
+152,NEU-152,Neurología,Básica,Disponible
+153,UCI-153,UCI,Alta Complejidad,Disponible
+154,NEU-154,Neurología,Básica,Disponible
+155,UCI-155,UCI,Básica,Disponible
+156,MED-156,Medicina Interna,Media,Disponible
+157,TRA-157,Traumatología,Media,Disponible
+158,MED-158,Medicina Interna,Media,Disponible
+159,UCI-159,UCI,Básica,Disponible
+160,TRA-160,Traumatología,Básica,Disponible
+161,TRA-161,Traumatología,Media,Disponible
+162,TRA-162,Traumatología,Media,Disponible
+163,TRA-163,Traumatología,Alta Complejidad,Disponible
+164,CAR-164,Cardiología,Alta Complejidad,Disponible
+165,CAR-165,Cardiología,Alta Complejidad,Disponible
+166,TRA-166,Traumatología,Básica,Disponible
+167,MED-167,Medicina Interna,Media,Disponible
+168,MED-168,Medicina Interna,Básica,Disponible
+169,NEU-169,Neurología,Alta Complejidad,Disponible
+170,NEU-170,Neurología,Básica,Disponible
+171,CAR-171,Cardiología,Media,Disponible
+172,UCI-172,UCI,Básica,Disponible
+173,NEU-173,Neurología,Media,Disponible
+174,NEU-174,Neurología,Alta Complejidad,Disponible
+175,MED-175,Medicina Interna,Básica,Disponible
+176,NEU-176,Neurología,Básica,Disponible
+177,MED-177,Medicina Interna,Básica,Disponible
+178,NEU-178,Neurología,Básica,Disponible
+179,CAR-179,Cardiología,Básica,Disponible
+180,TRA-180,Traumatología,Básica,Disponible
+181,NEU-181,Neurología,Básica,Disponible
+182,NEU-182,Neurología,Alta Complejidad,Disponible
+183,UCI-183,UCI,Alta Complejidad,Disponible
+184,UCI-184,UCI,Media,Disponible
+185,CAR-185,Cardiología,Alta Complejidad,Disponible
+186,NEU-186,Neurología,Alta Complejidad,Disponible
+187,CIR-187,Cirugía,Media,Disponible
+188,MED-188,Medicina Interna,Alta Complejidad,Disponible
+189,CAR-189,Cardiología,Media,Disponible
+190,MED-190,Medicina Interna,Media,Disponible
+191,TRA-191,Traumatología,Básica,Disponible
+192,CAR-192,Cardiología,Alta Complejidad,Disponible
+193,CIR-193,Cirugía,Media,Disponible
+194,CIR-194,Cirugía,Básica,Disponible
+195,UCI-195,UCI,Media,Disponible
+196,NEU-196,Neurología,Alta Complejidad,Disponible
+197,UCI-197,UCI,Básica,Disponible
+198,NEU-198,Neurología,Básica,Disponible
+199,NEU-199,Neurología,Media,Disponible
+200,MED-200,Medicina Interna,Media,Disponible
+201,UCI-201,UCI,Básica,Disponible
+202,CIR-202,Cirugía,Media,Disponible
+203,MED-203,Medicina Interna,Media,Disponible
+204,NEU-204,Neurología,Alta Complejidad,Disponible
+205,CIR-205,Cirugía,Alta Complejidad,Disponible
+206,CAR-206,Cardiología,Alta Complejidad,Disponible
+207,UCI-207,UCI,Alta Complejidad,Disponible
+208,NEU-208,Neurología,Media,Disponible
+209,CAR-209,Cardiología,Básica,Disponible
+210,MED-210,Medicina Interna,Media,Disponible
+211,UCI-211,UCI,Básica,Disponible
+212,CAR-212,Cardiología,Alta Complejidad,Disponible
+213,MED-213,Medicina Interna,Media,Disponible
+214,CIR-214,Cirugía,Alta Complejidad,Disponible
+215,MED-215,Medicina Interna,Alta Complejidad,Disponible
+216,CIR-216,Cirugía,Básica,Disponible
+217,CAR-217,Cardiología,Alta Complejidad,Disponible
+218,CIR-218,Cirugía,Alta Complejidad,Disponible
+219,TRA-219,Traumatología,Media,Disponible
+220,UCI-220,UCI,Básica,Disponible
+221,CAR-221,Cardiología,Media,Disponible
+222,CIR-222,Cirugía,Básica,Disponible
+223,UCI-223,UCI,Media,Disponible
+224,MED-224,Medicina Interna,Alta Complejidad,Disponible
+225,CIR-225,Cirugía,Básica,Disponible
+226,CAR-226,Cardiología,Media,Disponible
+227,NEU-227,Neurología,Alta Complejidad,Disponible
+228,TRA-228,Traumatología,Alta Complejidad,Disponible
+229,UCI-229,UCI,Básica,Disponible
+230,UCI-230,UCI,Alta Complejidad,Disponible
+231,MED-231,Medicina Interna,Alta Complejidad,Disponible
+232,UCI-232,UCI,Media,Disponible
+233,NEU-233,Neurología,Alta Complejidad,Disponible
+234,MED-234,Medicina Interna,Media,Disponible
+235,MED-235,Medicina Interna,Básica,Disponible
+236,CIR-236,Cirugía,Media,Disponible
+237,UCI-237,UCI,Media,Disponible
+238,MED-238,Medicina Interna,Alta Complejidad,Disponible
+239,MED-239,Medicina Interna,Alta Complejidad,Disponible
+240,UCI-240,UCI,Media,Disponible
+241,NEU-241,Neurología,Media,Disponible
+242,NEU-242,Neurología,Alta Complejidad,Disponible
+243,MED-243,Medicina Interna,Básica,Disponible
+244,MED-244,Medicina Interna,Básica,Disponible
+245,TRA-245,Traumatología,Básica,Disponible
+246,MED-246,Medicina Interna,Alta Complejidad,Disponible
+247,CIR-247,Cirugía,Media,Disponible
+248,CAR-248,Cardiología,Alta Complejidad,Disponible
+249,MED-249,Medicina Interna,Media,Disponible
+250,MED-250,Medicina Interna,Alta Complejidad,Disponible
+251,UCI-251,UCI,Media,Disponible
+252,UCI-252,UCI,Media,Disponible
+253,MED-253,Medicina Interna,Básica,Disponible
+254,TRA-254,Traumatología,Media,Disponible
+255,CIR-255,Cirugía,Básica,Disponible
+256,MED-256,Medicina Interna,Básica,Disponible
+257,CAR-257,Cardiología,Básica,Disponible
+258,TRA-258,Traumatología,Media,Disponible
+259,CIR-259,Cirugía,Básica,Disponible
+260,CIR-260,Cirugía,Media,Disponible
+261,CAR-261,Cardiología,Alta Complejidad,Disponible
+262,TRA-262,Traumatología,Alta Complejidad,Disponible
+263,NEU-263,Neurología,Media,Disponible
+264,UCI-264,UCI,Básica,Disponible
+265,CIR-265,Cirugía,Básica,Disponible
+266,NEU-266,Neurología,Media,Disponible
+267,UCI-267,UCI,Básica,Disponible
+268,NEU-268,Neurología,Media,Disponible
+269,CIR-269,Cirugía,Alta Complejidad,Disponible
+270,CIR-270,Cirugía,Media,Disponible
+271,NEU-271,Neurología,Alta Complejidad,Disponible
+272,UCI-272,UCI,Media,Disponible
+273,NEU-273,Neurología,Básica,Disponible
+274,CIR-274,Cirugía,Básica,Disponible
+275,CAR-275,Cardiología,Media,Disponible
+276,UCI-276,UCI,Alta Complejidad,Disponible
+277,NEU-277,Neurología,Alta Complejidad,Disponible
+278,CAR-278,Cardiología,Alta Complejidad,Disponible
+279,CAR-279,Cardiología,Alta Complejidad,Disponible
+280,MED-280,Medicina Interna,Media,Disponible
+281,TRA-281,Traumatología,Básica,Disponible
+282,CAR-282,Cardiología,Media,Disponible
+283,NEU-283,Neurología,Media,Disponible
+284,CAR-284,Cardiología,Básica,Disponible
+285,CAR-285,Cardiología,Media,Disponible
+286,NEU-286,Neurología,Media,Disponible
+287,CAR-287,Cardiología,Media,Disponible
+288,CIR-288,Cirugía,Media,Disponible
+289,CAR-289,Cardiología,Media,Disponible
+290,NEU-290,Neurología,Básica,Disponible
+291,MED-291,Medicina Interna,Media,Disponible
+292,CAR-292,Cardiología,Media,Disponible
+293,CAR-293,Cardiología,Alta Complejidad,Disponible
+294,MED-294,Medicina Interna,Alta Complejidad,Disponible
+295,NEU-295,Neurología,Media,Disponible
+296,TRA-296,Traumatología,Alta Complejidad,Disponible
+297,UCI-297,UCI,Media,Disponible
+298,CIR-298,Cirugía,Básica,Disponible
+299,TRA-299,Traumatología,Alta Complejidad,Disponible
+300,NEU-300,Neurología,Alta Complejidad,Disponible
+301,CIR-301,Cirugía,Media,Disponible
+302,TRA-302,Traumatología,Media,Disponible
+303,CAR-303,Cardiología,Básica,Disponible
+304,NEU-304,Neurología,Media,Disponible
+305,CAR-305,Cardiología,Básica,Disponible
+306,CAR-306,Cardiología,Básica,Disponible
+307,CIR-307,Cirugía,Alta Complejidad,Disponible
+308,CAR-308,Cardiología,Alta Complejidad,Disponible
+309,NEU-309,Neurología,Media,Disponible
+310,UCI-310,UCI,Básica,Disponible
+311,CAR-311,Cardiología,Media,Disponible
+312,MED-312,Medicina Interna,Básica,Disponible
+313,MED-313,Medicina Interna,Básica,Disponible
+314,UCI-314,UCI,Básica,Disponible
+315,TRA-315,Traumatología,Alta Complejidad,Disponible
+316,UCI-316,UCI,Media,Disponible
+317,TRA-317,Traumatología,Alta Complejidad,Disponible
+318,NEU-318,Neurología,Básica,Disponible
+319,CAR-319,Cardiología,Alta Complejidad,Disponible
+320,TRA-320,Traumatología,Media,Disponible
+321,TRA-321,Traumatología,Básica,Disponible
+322,MED-322,Medicina Interna,Alta Complejidad,Disponible
+323,CAR-323,Cardiología,Básica,Disponible
+324,UCI-324,UCI,Media,Disponible
+325,MED-325,Medicina Interna,Básica,Disponible
+326,CAR-326,Cardiología,Alta Complejidad,Disponible
+327,TRA-327,Traumatología,Básica,Disponible
+328,NEU-328,Neurología,Básica,Disponible
+329,UCI-329,UCI,Media,Disponible
+330,MED-330,Medicina Interna,Media,Disponible
+331,CAR-331,Cardiología,Alta Complejidad,Disponible
+332,NEU-332,Neurología,Alta Complejidad,Disponible
+333,CIR-333,Cirugía,Media,Disponible
+334,NEU-334,Neurología,Alta Complejidad,Disponible
+335,NEU-335,Neurología,Media,Disponible
+336,NEU-336,Neurología,Media,Disponible
+337,MED-337,Medicina Interna,Alta Complejidad,Disponible
+338,TRA-338,Traumatología,Media,Disponible
+339,CIR-339,Cirugía,Básica,Disponible
+340,CAR-340,Cardiología,Media,Disponible
+341,NEU-341,Neurología,Media,Disponible
+342,CAR-342,Cardiología,Básica,Disponible
+343,CIR-343,Cirugía,Media,Disponible
+344,UCI-344,UCI,Alta Complejidad,Disponible
+345,CIR-345,Cirugía,Básica,Disponible
+346,CIR-346,Cirugía,Media,Disponible
+347,CIR-347,Cirugía,Alta Complejidad,Disponible
+348,UCI-348,UCI,Básica,Disponible
+349,MED-349,Medicina Interna,Básica,Disponible
+350,TRA-350,Traumatología,Alta Complejidad,Disponible
+351,MED-351,Medicina Interna,Alta Complejidad,Disponible
+352,MED-352,Medicina Interna,Básica,Disponible
+353,TRA-353,Traumatología,Media,Disponible
+354,CIR-354,Cirugía,Alta Complejidad,Disponible
+355,TRA-355,Traumatología,Media,Disponible
+356,UCI-356,UCI,Básica,Disponible
+357,TRA-357,Traumatología,Media,Disponible
+358,NEU-358,Neurología,Alta Complejidad,Disponible
+359,UCI-359,UCI,Alta Complejidad,Disponible
+360,TRA-360,Traumatología,Media,Disponible
+361,UCI-361,UCI,Media,Disponible
+362,CIR-362,Cirugía,Media,Disponible
+363,TRA-363,Traumatología,Alta Complejidad,Disponible
+364,CAR-364,Cardiología,Alta Complejidad,Disponible
+365,NEU-365,Neurología,Alta Complejidad,Disponible
+366,MED-366,Medicina Interna,Media,Disponible
+367,MED-367,Medicina Interna,Media,Disponible
+368,TRA-368,Traumatología,Media,Disponible
+369,UCI-369,UCI,Media,Disponible
+370,CIR-370,Cirugía,Alta Complejidad,Disponible
+371,CAR-371,Cardiología,Media,Disponible
+372,CAR-372,Cardiología,Básica,Disponible
+373,TRA-373,Traumatología,Básica,Disponible
+374,NEU-374,Neurología,Alta Complejidad,Disponible
+375,UCI-375,UCI,Media,Disponible
+376,NEU-376,Neurología,Alta Complejidad,Disponible
+377,CAR-377,Cardiología,Básica,Disponible
+378,UCI-378,UCI,Alta Complejidad,Disponible
+379,TRA-379,Traumatología,Básica,Disponible
+380,TRA-380,Traumatología,Básica,Disponible
+381,UCI-381,UCI,Media,Disponible
+382,TRA-382,Traumatología,Media,Disponible
+383,MED-383,Medicina Interna,Media,Disponible
+384,CIR-384,Cirugía,Media,Disponible
+385,TRA-385,Traumatología,Media,Disponible
+386,TRA-386,Traumatología,Media,Disponible
+387,UCI-387,UCI,Media,Disponible
+388,UCI-388,UCI,Alta Complejidad,Disponible
+389,NEU-389,Neurología,Básica,Disponible
+390,CIR-390,Cirugía,Básica,Disponible
+391,CAR-391,Cardiología,Básica,Disponible
+392,CAR-392,Cardiología,Básica,Disponible
+393,UCI-393,UCI,Básica,Disponible
+394,MED-394,Medicina Interna,Básica,Disponible
+395,NEU-395,Neurología,Básica,Disponible
+396,MED-396,Medicina Interna,Básica,Disponible
+397,TRA-397,Traumatología,Alta Complejidad,Disponible
+398,UCI-398,UCI,Alta Complejidad,Disponible
+399,MED-399,Medicina Interna,Media,Disponible
+400,CAR-400,Cardiología,Media,Disponible
+401,CIR-401,Cirugía,Básica,Disponible
+402,NEU-402,Neurología,Alta Complejidad,Disponible
+403,CAR-403,Cardiología,Alta Complejidad,Disponible
+404,UCI-404,UCI,Básica,Disponible
+405,CIR-405,Cirugía,Básica,Disponible
+406,NEU-406,Neurología,Básica,Disponible
+407,CIR-407,Cirugía,Alta Complejidad,Disponible
+408,CAR-408,Cardiología,Media,Disponible
+409,TRA-409,Traumatología,Alta Complejidad,Disponible
+410,MED-410,Medicina Interna,Básica,Disponible
+411,NEU-411,Neurología,Alta Complejidad,Disponible
+412,CAR-412,Cardiología,Básica,Disponible
+413,UCI-413,UCI,Alta Complejidad,Disponible
+414,CIR-414,Cirugía,Alta Complejidad,Disponible
+415,NEU-415,Neurología,Básica,Disponible
+416,NEU-416,Neurología,Básica,Disponible
+417,CIR-417,Cirugía,Alta Complejidad,Disponible
+418,TRA-418,Traumatología,Alta Complejidad,Disponible
+419,CIR-419,Cirugía,Básica,Disponible
+420,NEU-420,Neurología,Alta Complejidad,Disponible
+421,CIR-421,Cirugía,Básica,Disponible
+422,TRA-422,Traumatología,Media,Disponible
+423,UCI-423,UCI,Media,Disponible
+424,CIR-424,Cirugía,Alta Complejidad,Disponible
+425,TRA-425,Traumatología,Alta Complejidad,Disponible
+426,MED-426,Medicina Interna,Media,Disponible
+427,MED-427,Medicina Interna,Alta Complejidad,Disponible
+428,NEU-428,Neurología,Alta Complejidad,Disponible
+429,CIR-429,Cirugía,Alta Complejidad,Disponible
+430,NEU-430,Neurología,Media,Disponible
+431,TRA-431,Traumatología,Media,Disponible
+432,CAR-432,Cardiología,Alta Complejidad,Disponible
+433,CIR-433,Cirugía,Media,Disponible
+434,MED-434,Medicina Interna,Básica,Disponible
+435,CIR-435,Cirugía,Media,Disponible
+436,MED-436,Medicina Interna,Media,Disponible
+437,NEU-437,Neurología,Alta Complejidad,Disponible
+438,CAR-438,Cardiología,Media,Disponible
+439,CIR-439,Cirugía,Básica,Disponible
+440,TRA-440,Traumatología,Media,Disponible
+441,MED-441,Medicina Interna,Media,Disponible
+442,MED-442,Medicina Interna,Media,Disponible
+443,CIR-443,Cirugía,Media,Disponible
+444,CIR-444,Cirugía,Alta Complejidad,Disponible
+445,CAR-445,Cardiología,Media,Disponible
+446,NEU-446,Neurología,Básica,Disponible
+447,NEU-447,Neurología,Básica,Disponible
+448,UCI-448,UCI,Básica,Disponible
+449,CAR-449,Cardiología,Media,Disponible
+450,TRA-450,Traumatología,Alta Complejidad,Disponible
+451,MED-451,Medicina Interna,Alta Complejidad,Disponible
+452,TRA-452,Traumatología,Alta Complejidad,Disponible
+453,CAR-453,Cardiología,Media,Disponible
+454,TRA-454,Traumatología,Básica,Disponible
+455,UCI-455,UCI,Media,Disponible
+456,MED-456,Medicina Interna,Media,Disponible
+457,CAR-457,Cardiología,Básica,Disponible
+458,CIR-458,Cirugía,Alta Complejidad,Disponible
+459,NEU-459,Neurología,Media,Disponible
+460,TRA-460,Traumatología,Alta Complejidad,Disponible
+461,NEU-461,Neurología,Media,Disponible
+462,TRA-462,Traumatología,Alta Complejidad,Disponible
+463,NEU-463,Neurología,Media,Disponible
+464,CIR-464,Cirugía,Alta Complejidad,Disponible
+465,TRA-465,Traumatología,Media,Disponible
+466,CIR-466,Cirugía,Media,Disponible
+467,MED-467,Medicina Interna,Básica,Disponible
+468,CAR-468,Cardiología,Básica,Disponible
+469,CIR-469,Cirugía,Básica,Disponible
+470,CAR-470,Cardiología,Alta Complejidad,Disponible
+471,CAR-471,Cardiología,Básica,Disponible
+472,MED-472,Medicina Interna,Básica,Disponible
+473,CAR-473,Cardiología,Media,Disponible
+474,CIR-474,Cirugía,Alta Complejidad,Disponible
+475,NEU-475,Neurología,Alta Complejidad,Disponible
+476,NEU-476,Neurología,Media,Disponible
+477,UCI-477,UCI,Básica,Disponible
+478,CIR-478,Cirugía,Básica,Disponible
+479,CIR-479,Cirugía,Básica,Disponible
+480,CIR-480,Cirugía,Básica,Disponible
+481,CAR-481,Cardiología,Alta Complejidad,Disponible
+482,MED-482,Medicina Interna,Media,Disponible
+483,UCI-483,UCI,Básica,Disponible
+484,NEU-484,Neurología,Media,Disponible
+485,CAR-485,Cardiología,Básica,Disponible
+486,CAR-486,Cardiología,Media,Disponible
+487,UCI-487,UCI,Básica,Disponible
+488,NEU-488,Neurología,Media,Disponible
+489,TRA-489,Traumatología,Media,Disponible
+490,TRA-490,Traumatología,Media,Disponible
+491,MED-491,Medicina Interna,Básica,Disponible
+492,CIR-492,Cirugía,Media,Disponible
+493,UCI-493,UCI,Básica,Disponible
+494,TRA-494,Traumatología,Media,Disponible
+495,UCI-495,UCI,Alta Complejidad,Disponible
+496,CAR-496,Cardiología,Alta Complejidad,Disponible
+497,UCI-497,UCI,Básica,Disponible
+498,MED-498,Medicina Interna,Alta Complejidad,Disponible
+499,CIR-499,Cirugía,Básica,Disponible
+500,MED-500,Medicina Interna,Básica,Disponible
+501,NEU-501,Neurología,Media,Disponible
+502,NEU-502,Neurología,Alta Complejidad,Disponible
+503,NEU-503,Neurología,Básica,Disponible
+504,NEU-504,Neurología,Media,Disponible
+505,TRA-505,Traumatología,Media,Disponible
+506,CIR-506,Cirugía,Alta Complejidad,Disponible
+507,TRA-507,Traumatología,Media,Disponible
+508,NEU-508,Neurología,Alta Complejidad,Disponible
+509,UCI-509,UCI,Alta Complejidad,Disponible
+510,CAR-510,Cardiología,Básica,Disponible
+511,MED-511,Medicina Interna,Alta Complejidad,Disponible
+512,MED-512,Medicina Interna,Media,Disponible
+513,CAR-513,Cardiología,Básica,Disponible
+514,MED-514,Medicina Interna,Básica,Disponible
+515,MED-515,Medicina Interna,Alta Complejidad,Disponible
+516,UCI-516,UCI,Básica,Disponible
+517,UCI-517,UCI,Media,Disponible
+518,TRA-518,Traumatología,Alta Complejidad,Disponible
+519,NEU-519,Neurología,Media,Disponible
+520,CIR-520,Cirugía,Básica,Disponible
+521,MED-521,Medicina Interna,Media,Disponible
+522,CAR-522,Cardiología,Media,Disponible
+523,CAR-523,Cardiología,Media,Disponible
+524,UCI-524,UCI,Alta Complejidad,Disponible
+525,MED-525,Medicina Interna,Media,Disponible
+526,CAR-526,Cardiología,Alta Complejidad,Disponible
+527,CAR-527,Cardiología,Básica,Disponible
+528,TRA-528,Traumatología,Básica,Disponible
+529,NEU-529,Neurología,Básica,Disponible
+530,CAR-530,Cardiología,Básica,Disponible
+531,CIR-531,Cirugía,Básica,Disponible
+532,UCI-532,UCI,Básica,Disponible
+533,MED-533,Medicina Interna,Media,Disponible
+534,NEU-534,Neurología,Alta Complejidad,Disponible
+535,NEU-535,Neurología,Media,Disponible
+536,TRA-536,Traumatología,Básica,Disponible
+537,TRA-537,Traumatología,Alta Complejidad,Disponible
+538,CIR-538,Cirugía,Alta Complejidad,Disponible
+539,TRA-539,Traumatología,Media,Disponible
+540,NEU-540,Neurología,Alta Complejidad,Disponible
+541,TRA-541,Traumatología,Media,Disponible
+542,UCI-542,UCI,Alta Complejidad,Disponible
+543,UCI-543,UCI,Media,Disponible
+544,CAR-544,Cardiología,Media,Disponible
+545,NEU-545,Neurología,Media,Disponible
+546,UCI-546,UCI,Básica,Disponible
+547,MED-547,Medicina Interna,Alta Complejidad,Disponible
+548,NEU-548,Neurología,Alta Complejidad,Disponible
+549,UCI-549,UCI,Alta Complejidad,Disponible
+550,CIR-550,Cirugía,Alta Complejidad,Disponible
+551,UCI-551,UCI,Básica,Disponible
+552,TRA-552,Traumatología,Alta Complejidad,Disponible
+553,CAR-553,Cardiología,Media,Disponible
+554,CIR-554,Cirugía,Básica,Disponible
+555,NEU-555,Neurología,Media,Disponible
+556,CAR-556,Cardiología,Media,Disponible
+557,UCI-557,UCI,Media,Disponible
+558,CIR-558,Cirugía,Media,Disponible
+559,CIR-559,Cirugía,Media,Disponible
+560,CAR-560,Cardiología,Básica,Disponible
+561,MED-561,Medicina Interna,Media,Disponible
+562,TRA-562,Traumatología,Alta Complejidad,Disponible
+563,TRA-563,Traumatología,Media,Disponible
+564,CAR-564,Cardiología,Media,Disponible
+565,NEU-565,Neurología,Básica,Disponible
+566,TRA-566,Traumatología,Básica,Disponible
+567,CIR-567,Cirugía,Media,Disponible
+568,CIR-568,Cirugía,Básica,Disponible
+569,TRA-569,Traumatología,Alta Complejidad,Disponible
+570,UCI-570,UCI,Alta Complejidad,Disponible
+571,NEU-571,Neurología,Media,Disponible
+572,TRA-572,Traumatología,Básica,Disponible
+573,MED-573,Medicina Interna,Alta Complejidad,Disponible
+574,CIR-574,Cirugía,Alta Complejidad,Disponible
+575,TRA-575,Traumatología,Alta Complejidad,Disponible
+576,TRA-576,Traumatología,Básica,Disponible
+577,MED-577,Medicina Interna,Media,Disponible
+578,NEU-578,Neurología,Básica,Disponible
+579,CIR-579,Cirugía,Media,Disponible
+580,CAR-580,Cardiología,Media,Disponible
+581,UCI-581,UCI,Básica,Disponible
+582,CAR-582,Cardiología,Alta Complejidad,Disponible
+583,MED-583,Medicina Interna,Alta Complejidad,Disponible
+584,MED-584,Medicina Interna,Media,Disponible
+585,NEU-585,Neurología,Básica,Disponible
+586,NEU-586,Neurología,Media,Disponible
+587,UCI-587,UCI,Básica,Disponible
+588,UCI-588,UCI,Media,Disponible
+589,UCI-589,UCI,Alta Complejidad,Disponible
+590,MED-590,Medicina Interna,Media,Disponible
+591,CAR-591,Cardiología,Media,Disponible
+592,NEU-592,Neurología,Alta Complejidad,Disponible
+593,CIR-593,Cirugía,Media,Disponible
+594,TRA-594,Traumatología,Media,Disponible
+595,MED-595,Medicina Interna,Media,Disponible
+596,NEU-596,Neurología,Básica,Disponible
+597,TRA-597,Traumatología,Básica,Disponible
+598,NEU-598,Neurología,Alta Complejidad,Disponible
+599,CAR-599,Cardiología,Básica,Disponible
+600,UCI-600,UCI,Media,Disponible
